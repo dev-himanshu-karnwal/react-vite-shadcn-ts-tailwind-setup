@@ -106,9 +106,9 @@ module.exports = {
 
 Shadcn UI components are pre-configured and can be imported directly into your project. You can customize the theme and styles by modifying the `shadcn-ui` configuration.
 
-### ESLint and Prettier
+### ESLint 
 
-ESLint and Prettier are configured to enforce consistent code formatting and linting rules. You can modify the rules in `.eslintrc.js` and `.prettierrc.js` respectively.
+ESLint is configured to enforce consistent code linting rules. You can modify the rules in `.eslintrc.js`.
 
 ---
 
